@@ -1157,7 +1157,7 @@ logo ="""
 [+] CREATED BY     : 𝗠𝗥 𝗔𝗟𝗢𝗡𝗘 𝗛𝗔𝗖𝗞𝗘𝗥 
 [+] FB GROUP       : 𝗛𝗗 𝗗𝗣'𝗭 𝗘𝗗𝗜𝗧𝗜𝗡𝗚 𝗭𝗢𝗡𝗘
 [+] ON GITHUB      : 𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟-𝗥𝗔𝗩𝗜
-[+] TOOL STATUS  : 𝗥𝗔𝗡𝗗𝗢𝗠
+[+] TOOL STATUS       : 𝗥𝗔𝗡𝗗𝗢𝗠
 [+] TOOL VIRSION : 0.3
 [+]=============================================="""
 
@@ -1204,7 +1204,7 @@ def jonty():
     os.system("clear")
     print(logo)
     
-    print("[1] RANDOM CLONE NP\n[2] RANDOM CLONE IND\n[3] RANDOM CLONE PK\n[4] RANDOM CLONE BD\n[5] RANDOM CLONE WITH CHOOSE PSWD\n[6] RANDOM CLONE WITH I LOVE YOU & FREE FIRE PSWD\n[7] CONTACT OWNER")
+    print("[1] RANDOM CLONE NEPAL\n[2] RANDOM CLONE INDIA \n[3] RANDOM CLONE PAKISTAN\n[4] RANDOM CLONE BANGLA\n[5] RANDOM CLONE WITH CHOOSE PSWD\n[6] RANDOM CLONE WITH I LOVE YOU & FREE FIRE PASSWORD \n[7] CONTACT OWNER")
     print(49*'=')
     aryan = input("✓CHOOSE>")
     if aryan =='1':xerx1()
